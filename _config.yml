@@ -55,9 +55,9 @@ links:
       key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
-# projects:
-#   - name: <project_name>
-#     url: <project_website>
+projects:
+  - name: This website
+    url: https://euronion.github.io
 
 # exclude node related stuff
 exclude: ['package.json', 'src', 'node_modules']
