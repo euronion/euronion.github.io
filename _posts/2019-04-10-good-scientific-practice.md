@@ -10,7 +10,7 @@ categories:
 twitter_text: "Collection of ideas and resources on good scientific practice."
 ---
 
-For changes to this file, see the [GitHub changelog](https://github.com/euronion/euronion.github.io/_posts/2019-04-10-good-scientific-practice.md).
+For changes to this file, see the [GitHub changelog](https://github.com/euronion/euronion.github.io/commits/master/_posts/2019-04-10-good-scientific-practice.md).
 
 ## Disclaimer
 
